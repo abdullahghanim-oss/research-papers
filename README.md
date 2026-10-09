@@ -29,7 +29,7 @@ data analysis.
     **Venue:** *International Journal of Research and Innovation in
     Applied Science*, 11(2)\
     **Citations reported in supplied profile:** 3\
-    **DOI / publication link:** Add verified link.
+    **DOI / publication link:** [https://doi.org/10.51584/IJRIAS.2026.110200078](https://doi.org/10.51584/IJRIAS.2026.110200078).
 
 2.  **Dynamic Quantization-Aware Neural Architecture Search for
     Real-Time Encrypted Traffic Classification in 5G Networks**\
@@ -38,21 +38,21 @@ data analysis.
     **Venue:** *Al-Iraqia Journal for Scientific Engineering Research*,
     5(1), 34--48\
     **Citations reported in supplied profile:** 2\
-    **DOI / publication link:** Add verified link.
+    **DOI / publication link:** [https://doi.org/10.58564/IJSER.5.1.2026.365](https://doi.org/10.58564/IJSER.5.1.2026.365).
 
 3.  **A Hybrid Vision Transformer--Graph Neural Network Framework for
     High-Resolution Surveillance Scene Understanding**\
     **Authors:** AA Ali, AG Jaber, AA Mahmood, MJ Salim\
     **Venue:** *Buletin Ilmiah Sarjana Teknik Elektro*, 8(5),
     1393--1426\
-    **DOI / publication link:** Add verified link.
+    **DOI / publication link:** [https://doi.org/10.12928/biste.v8i5.16148](https://doi.org/10.12928/biste.v8i5.16148).
 
 4.  **FOX-SHIELD: A Secure Encrypted-Domain Remote Sensing Image
     Classification Framework Using Chebyshev-SHA and Fox-Optimized
     FRNNs**\
     **Authors:** AG Jaber, RC Muniyandi, KAZ Ariffin\
     **Venue:** *Electronics*, 15(19), article 4382\
-    **DOI / publication link:** Add verified link.
+    **DOI / publication link:** [https://doi.org/10.3390/electronics15194382](https://doi.org/10.3390/electronics15194382).
 
 5.  **CADSA: Content-Aware Dynamic Sparse Attention for Lightweight and
     Energy-Efficient Edge AI with Sub-Quadratic Complexity**\
@@ -60,19 +60,19 @@ data analysis.
     Mahmood, MJ Salim\
     **Venue:** *Iraqi Journal for Computers and Informatics*, 52(2),
     194--207\
-    **DOI / publication link:** Add verified link.
+    **DOI / publication link:** [https://doi.org/10.25195/ijci.v52i2.855](https://doi.org/10.25195/ijci.v52i2.855).
 
 6.  **Real-Time Seizure Prediction Using Low-Power Spiking Neural
     Networks on Wearable Edge Devices**\
     **Authors:** AG Jaber\
     **Venue:** *Dijlah Journal of Engineering Sciences*, 3(3)\
-    **DOI / publication link:** Add verified link.
+    **DOI / publication link:** [https://doi.org/10.65204/djes.v3i3.840](https://doi.org/10.65204/djes.v3i3.840).
 
 7.  **Anatomical Pretext Tasks with Hybrid CNN-ViT Backbone for Enhanced
     SVM-Based Mammogram Analysis**\
     **Authors:** AG Jaber\
     **Venue:** *Dijlah Journal of Engineering Sciences*, 3(3)\
-    **DOI / publication link:** Add verified link.
+    **DOI / publication link:** [https://doi.org/10.65204/djes.v3i1.652](https://doi.org/10.65204/djes.v3i1.652).
 
 8.  **Fedstress: A Privacy-Preserving Federated Learning Framework for
     Efficient and Accurate Stress Detection Using Wearable Sensors**\
@@ -87,8 +87,9 @@ data analysis.
     Blockchain Key Scheduler with MDP-Driven Reinforcement Learning**\
     **Authors:** AG Jaber, MJ Salim, AA Mahmood\
     **Venue:** *Iraqi Journal for Computers and Informatics*, 52(1),
+    **DOI:** [https://doi.org/10.25195/ijci.v52i1.685](https://doi.org/10.25195/ijci.v52i1.685)
     113--126\
-    **DOI / publication link:** Add verified link.
+    **DOI / publication link:** [https://doi.org/10.51583/IJLTEMAS.2026.15020000074](https://doi.org/10.51583/IJLTEMAS.2026.15020000074).
 
 ### 2025
 
@@ -98,6 +99,7 @@ data analysis.
     al.\
     **Venue:** *2025 International Conference on AI-Driven STEM
     Education and Learning*\
+    **DOI:** [https://doi.org/10.1109/AISTEMEDU67077.2025.11403923](https://doi.org/10.1109/AISTEMEDU67077.2025.11403923)  
     **Bibliographic note:** Confirm the complete author list and
     proceedings details.
 
@@ -105,7 +107,8 @@ data analysis.
     Framework Using Chebyshev-SHA Encryption and Fox-Optimized Fast
     Recurrent Neural Networks**\
     **Authors:** AG Jaber, RC Muniyandi, KAZ Ariffin\
-    **Type:** Preprint\
+    **Type:** Preprint  
+    **DOI:** [https://doi.org/10.20944/preprints202511.1171.v1](https://doi.org/10.20944/preprints202511.1171.v1)\
     **Related-work note:** This title appears related to the 2026
     FOX-SHIELD paper above. Verify whether these are distinct works or
     different versions of the same research before listing both as
@@ -116,21 +119,21 @@ data analysis.
     **Authors:** HM Fahim, D Kalidoss, KSM Kizi, AG Jaber\
     **Venue:** *2025 3rd International Conference on Cyber Resilience
     (ICCR)*, pages 1--6\
-    **DOI / publication link:** Add verified link.
+    **DOI / publication link:** [https://doi.org/10.1109/ICCR67387.2025.11291859](https://doi.org/10.1109/ICCR67387.2025.11291859).
 
 13. **Behavioral Biometrics-Based Continuous Authentication in FinTech
     Apps Using Triplet-Loss Siamese Models**\
     **Authors:** H Abd Alrazaq, R Sharma, SSD Ugli, AG Jaber\
     **Venue:** *2025 3rd International Conference on Cyber Resilience
     (ICCR)*, pages 1--6\
-    **DOI / publication link:** Add verified link.
+    **DOI / publication link:** [https://doi.org/10.1109/ICCR67387.2025.11292226](https://doi.org/10.1109/ICCR67387.2025.11292226).
 
 14. **A Secure and Intelligent Framework for Soil Testing and Crop
     Recommendation Via Lukasiewicz Bipolar Fuzzy Matrix**\
     **Authors:** N Abirami, MM Jansirani, NM Yaacob, M Doheir, AG Jaber\
     **Venue:** *2025 3rd International Conference on Cyber Resilience
     (ICCR)*, pages 1--5\
-    **DOI / publication link:** Add verified link.
+    **DOI / publication link:** [https://doi.org/10.1109/ICCR67387.2025.11291718](https://doi.org/10.1109/ICCR67387.2025.11291718).
 
 ### 2022
 
@@ -140,14 +143,14 @@ data analysis.
     **Authors:** AG Jaber, RC Muniyandi, OL Usman, HKR Singh\
     **Venue:** *Applied Sciences*, 12(21), article 11052\
     **Citations reported in supplied profile:** 17\
-    **DOI / publication link:** Add verified link.
+    **DOI / publication link:** [https://doi.org/10.3390/app122111052](https://doi.org/10.3390/app122111052).
 
 ### 2021
 
 16. **FACE RECOGNITION USING HYBRID GABOR FILTER AND STACKED SPARSE AUTO
     ENCODERS (SSAE) WITH DEEP NEURAL NETWORK MODEL**\
     **Authors:** AG Jaber, RC Muniyandi\
-    **Venue / publication details:** Not included in supplied record.\
+    **Venue / publication details:** Not included in supplied record; no DOI verified.\
     **Related-work note:** This may be an earlier version or related
     work to the 2022 facial-recognition paper. Verify before counting it
     as a separate publication.
