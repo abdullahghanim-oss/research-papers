@@ -28,7 +28,6 @@ data analysis.
     **Authors:** AG Jaber\
     **Venue:** *International Journal of Research and Innovation in
     Applied Science*, 11(2)\
-    **Citations reported in supplied profile:** 3\
     **DOI / publication link:** [https://doi.org/10.51584/IJRIAS.2026.110200078](https://doi.org/10.51584/IJRIAS.2026.110200078).
 
 2.  **Dynamic Quantization-Aware Neural Architecture Search for
@@ -37,7 +36,6 @@ data analysis.
     KAZ Ariffin\
     **Venue:** *Al-Iraqia Journal for Scientific Engineering Research*,
     5(1), 34--48\
-    **Citations reported in supplied profile:** 2\
     **DOI / publication link:** [https://doi.org/10.58564/IJSER.5.1.2026.365](https://doi.org/10.58564/IJSER.5.1.2026.365).
 
 3.  **A Hybrid Vision Transformer--Graph Neural Network Framework for
@@ -142,7 +140,6 @@ data analysis.
     Network**\
     **Authors:** AG Jaber, RC Muniyandi, OL Usman, HKR Singh\
     **Venue:** *Applied Sciences*, 12(21), article 11052\
-    **Citations reported in supplied profile:** 17\
     **DOI / publication link:** [https://doi.org/10.3390/app122111052](https://doi.org/10.3390/app122111052).
 
 ### 2021
@@ -152,19 +149,8 @@ data analysis.
     **Authors:** AG Jaber, RC Muniyandi\
     **Venue / publication details:** Not included in supplied record; no DOI verified.\
     **Related-work note:** This may be an earlier version or related
-    work to the 2022 facial-recognition paper. Verify before counting it
-    as a separate publication.
+    work to the 2022 facial-recognition paper.
 
-### Year and publication status to verify
-
-17. **FedStress: A Privacy-Preserving Federated Learning Framework for
-    Efficient and Accurate Stress Detection on Wearable Devices**\
-    **Authors:** AG Jaber\
-    **Year / venue:** Not shown clearly in the supplied record.\
-    **Related-work note:** This title is similar to the 2026
-    stress-monitoring papers above. Confirm its publication status and
-    whether it is a separate article, an earlier version, or a duplicate
-    record before finalizing the list.
 
 ------------------------------------------------------------------------
 
@@ -178,23 +164,6 @@ data analysis.
 -   Cybersecurity and encrypted traffic classification
 -   Wearable sensing and health monitoring
 -   AI for education and applied data analysis
-
-## Code and datasets
-
-Code, datasets, and reproducibility materials will be linked here when
-publicly available and permitted to share.
-
--   **Code repositories:** Add links to relevant repositories.
--   **Datasets:** Add links to public datasets or project pages.
--   **Reproducibility materials:** Add implementation details,
-    configurations, and instructions where available.
-
-## Citation and reuse
-
-If you use a specific paper, cite the original published version and
-follow the citation format requested by its publisher or conference.
-This repository is a discovery index; the publisher's record or DOI
-should be treated as the authoritative bibliographic source.
 
 ------------------------------------------------------------------------
 
