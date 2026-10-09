@@ -4,10 +4,13 @@ Research portfolio for **Abdullah Ghanim Jaber**, focusing on computer
 science, artificial intelligence, image processing, cybersecurity, and
 data analysis.
 
--   **Google Scholar:**
-    https://scholar.google.com/citations?user=6HiI4toAAAAJ&hl=en
--   **Research interests:** Artificial intelligence · Computer vision ·
-    Image processing · Cybersecurity · Federated learning · Edge AI ·
+
+## Researcher Profiles
+
+- **ORCID:** [0000-0002-2901-4161](https://orcid.org/0000-0002-2901-4161)
+- **Google Scholar:** [Publications and citations](https://scholar.google.com/citations?user=6HiI4toAAAAJ&hl=en)
+- **Research interests:** Artificial Intelligence, Computer Vision, Image Processing, Cybersecurity, Federated Learning, and Edge AI.
+
     Privacy-preserving machine learning · Data analysis
 -   **Affiliation listed on Google Scholar:** University of Information
     Technology and Communications (UoITC)
