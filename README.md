@@ -11,9 +11,7 @@ data analysis.
 - **Google Scholar:** [Publications and citations](https://scholar.google.com/citations?user=6HiI4toAAAAJ&hl=en)
 - **Research interests:** Artificial Intelligence, Computer Vision, Image Processing, Cybersecurity, Federated Learning, and Edge AI.
 
-    Privacy-preserving machine learning · Data analysis
--   **Affiliation listed on Google Scholar:** University of Information
-    Technology and Communications (UoITC)
+-   **Affiliation listed on Google Scholar:** University of Information Technology and Communications (UoITC)
 
 > **Publication note:** This list is based on the publication
 > information supplied for the Google Scholar profile. Please verify
