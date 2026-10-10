@@ -163,5 +163,4 @@
 
 ------------------------------------------------------------------------
 
-*Last updated: October 2026. Please update this date when the list is
-revised.*
+*Last updated: 10 October 2026. 
