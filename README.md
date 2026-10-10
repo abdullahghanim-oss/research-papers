@@ -11,7 +11,8 @@
 - <img src="https://www.google.com/s2/favicons?domain=scholar.google.com&sz=64" width="20" height="20" alt="Google Scholar icon" /> **[Google Scholar](https://scholar.google.com/citations?user=6HiI4toAAAAJ&hl=en)** — Publications and citations
 - <img src="https://www.google.com/s2/favicons?domain=orcid.org&sz=64" width="20" height="20" alt="ORCID icon" /> **[ORCID](https://orcid.org/0000-0002-2901-4161)** — 0000-0002-2901-4161
 - <img src="https://www.google.com/s2/favicons?domain=scopus.com&sz=64" width="20" height="20" alt="Scopus icon" /> **[Scopus](https://www.scopus.com/authid/detail.uri?authorId=60431094700)** — Author ID: 60431094700
-- <img src="https://www.google.com/s2/favicons?domain=webofscience.com&sz=64" width="20" height="20" alt="Web of Science icon" /> **[Web of Science](https://www.webofscience.com/wos/author/record/QAW-2758-2026)** — Researcher ID: QAW-2758-2026
+- <img src="[https://www.google.com/s2/favicons?domain=webofscience.com&sz=64](https://www.scopus.com/static/proteus-images/favicon.ico?ver=1.0)" width="20" height="20" alt="Web of Science icon" />
+- **[Web of Science](https://www.webofscience.com/wos/author/record/QAW-2758-2026)** — Researcher ID: QAW-2758-2026
 - <img src="https://www.google.com/s2/favicons?domain=researchgate.net&sz=64" width="20" height="20" alt="ResearchGate icon" /> **[ResearchGate](https://www.researchgate.net/profile/Abdullah-Jaber-6)** — Research profile
 - <img src="https://www.google.com/s2/favicons?domain=auiqplatform.com&sz=64" width="20" height="20" alt="Academic Research Platform icon" /> **[Academic Research Platform](https://auiqplatform.com/ar/Researcher/Profile/abdullah-ghanim-jaber)** — Abdullah Ghanim Jaber
 
