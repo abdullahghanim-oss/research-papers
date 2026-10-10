@@ -1,24 +1,19 @@
 # Abdullah Ghanim Jaber --- Research Publications
 
-Research portfolio for **Abdullah Ghanim Jaber**, focusing on computer
-science, artificial intelligence, image processing, cybersecurity, and
-data analysis.
+-   **Research interests:** Artificial intelligence · Computer vision ·
+    Image processing · Cybersecurity · Federated learning · Edge AI ·
+    Privacy-preserving machine learning · Data analysis
+-   **Affiliation listed on Google Scholar:** University of Information Technology and Communications (UoITC)
 
 
 ## Researcher Profiles
 
-- **ORCID:** [0000-0002-2901-4161](https://orcid.org/0000-0002-2901-4161)
-- **Google Scholar:** [Publications and citations](https://scholar.google.com/citations?user=6HiI4toAAAAJ&hl=en)
-- **Research interests:** Artificial Intelligence, Computer Vision, Image Processing, Cybersecurity, Federated Learning, and Edge AI.
-
--   **Affiliation listed on Google Scholar:** University of Information Technology and Communications (UoITC)
-
-> **Publication note:** This list is based on the publication
-> information supplied for the Google Scholar profile. Please verify
-> final bibliographic details, author order, publication status, DOI
-> links, and possible duplicate versions before treating it as a
-> definitive bibliography. Links are included only where provided or
-> where a stable profile link is known.
+- <img src="https://www.google.com/s2/favicons?domain=scholar.google.com&sz=64" width="20" height="20" alt="Google Scholar icon" /> **[Google Scholar](https://scholar.google.com/citations?user=6HiI4toAAAAJ&hl=en)** — Publications and citations
+- <img src="https://www.google.com/s2/favicons?domain=orcid.org&sz=64" width="20" height="20" alt="ORCID icon" /> **[ORCID](https://orcid.org/0000-0002-2901-4161)** — 0000-0002-2901-4161
+- <img src="https://www.google.com/s2/favicons?domain=scopus.com&sz=64" width="20" height="20" alt="Scopus icon" /> **[Scopus](https://www.scopus.com/authid/detail.uri?authorId=60431094700)** — Author ID: 60431094700
+- <img src="https://www.google.com/s2/favicons?domain=webofscience.com&sz=64" width="20" height="20" alt="Web of Science icon" /> **[Web of Science](https://www.webofscience.com/wos/author/record/QAW-2758-2026)** — Researcher ID: QAW-2758-2026
+- <img src="https://www.google.com/s2/favicons?domain=researchgate.net&sz=64" width="20" height="20" alt="ResearchGate icon" /> **[ResearchGate](https://www.researchgate.net/profile/Abdullah-Jaber-6)** — Research profile
+- <img src="https://www.google.com/s2/favicons?domain=auiqplatform.com&sz=64" width="20" height="20" alt="Academic Research Platform icon" /> **[Academic Research Platform](https://auiqplatform.com/ar/Researcher/Profile/abdullah-ghanim-jaber)** — Abdullah Ghanim Jaber
 
 ## Publications
 
@@ -150,8 +145,8 @@ data analysis.
     **Authors:** AG Jaber, RC Muniyandi\
     **Venue / publication details:** Not included in supplied record; no DOI verified.\
     **Related-work note:** This may be an earlier version or related
-    work to the 2022 facial-recognition paper.
-
+    work to the 2022 facial-recognition paper. Verify before counting it
+    as a separate publication.
 
 ------------------------------------------------------------------------
 
