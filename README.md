@@ -78,7 +78,7 @@
     **Authors:** AG Jaber\
     **Venue:** *International Journal of Latest Technology in
     Engineering, Management ...*\
-    **DOI / publication link:** [https://dx.doi.org/10.51583/IJLTEMAS.2026.15020000074] .
+    **DOI / publication link:** [https://doi.org/10.51583/IJLTEMAS.2026.15020000074](https://doi.org/10.51583/IJLTEMAS.2026.15020000074).
 
 9.  **Adaptive Multi-Layer Security for UAV Video Streaming: A Chaotic
     Blockchain Key Scheduler with MDP-Driven Reinforcement Learning**\
@@ -86,7 +86,7 @@
     **Venue:** *Iraqi Journal for Computers and Informatics*, 52(1),
     **DOI:** [https://doi.org/10.25195/ijci.v52i1.685](https://doi.org/10.25195/ijci.v52i1.685)
     113--126\
-    **DOI / publication link:** [https://doi.org/10.51583/IJLTEMAS.2026.15020000074](https://doi.org/10.51583/IJLTEMAS.2026.15020000074).
+    **DOI / publication link:** [https://doi.org/10.25195/ijci.v52i1.685](https://doi.org/10.25195/ijci.v52i1.685).
 
 ### 2025
 
