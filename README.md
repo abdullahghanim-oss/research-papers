@@ -12,9 +12,9 @@
 
 - <img src="https://www.google.com/s2/favicons?domain=orcid.org&sz=64" width="20" height="20" alt="ORCID icon" /> **[ORCID](https://orcid.org/0000-0002-2901-4161)** — 0000-0002-2901-4161
 
-- <img src="[https://www.google.com/s2/favicons?domain=scopus.com&sz=64](https://camo.githubusercontent.com/799f6de501a057c2e1997a5f472ac272d4461dd65bdd1c25824d45a97ea9b8ec/68747470733a2f2f7777772e6665722e756e697a672e68722f5f7075622f7468656d65735f7374617469632f666572323031362f64656661756c742f696d672f73636f7075732d69636f6e2e706e67)" width="20" height="20" alt="Scopus icon" /> **[Scopus](https://www.scopus.com/authid/detail.uri?authorId=60431094700)** — Author ID: 60431094700
+- <img src="https://www.google.com/s2/favicons?domain=scopus.com&sz=64" width="20" height="20" alt="Scopus icon" /> **[Scopus](https://www.scopus.com/authid/detail.uri?authorId=60431094700)** — Author ID: 60431094700
 
-- <img src="[https://www.google.com/s2/favicons?domain=webofscience.com&sz=64](https://www.scopus.com/static/proteus-images/favicon.ico?ver=1.0)" width="20" height="20" alt="Web of Science icon" /> - **[Web of Science](https://www.webofscience.com/wos/author/record/QAW-2758-2026)** — Researcher ID: QAW-2758-2026
+- <img src="https://www.google.com/s2/favicons?domain=webofscience.com&sz=64" width="20" height="20" alt="Web of Science icon" /> - **[Web of Science](https://www.webofscience.com/wos/author/record/QAW-2758-2026)** — Researcher ID: QAW-2758-2026
 
 - <img src="https://www.google.com/s2/favicons?domain=researchgate.net&sz=64" width="20" height="20" alt="ResearchGate icon" /> **[ResearchGate](https://www.researchgate.net/profile/Abdullah-Jaber-6)** — Research profile
 
