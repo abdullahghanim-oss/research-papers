@@ -12,9 +12,9 @@
 
 - <img src="https://www.google.com/s2/favicons?domain=orcid.org&sz=64" width="20" height="20" alt="ORCID icon" /> **[ORCID](https://orcid.org/0000-0002-2901-4161)** — 0000-0002-2901-4161
 
-**[Scopus](https://www.scopus.com/authid/detail.uri?authorId=60431094700)** — Author ID: 60431094700
+- **[Scopus](https://www.scopus.com/authid/detail.uri?authorId=60431094700)** — Author ID: 60431094700
 
-**[Web of Science](https://www.webofscience.com/wos/author/record/QAW-2758-2026)** — Researcher ID: QAW-2758-2026
+- **[Web of Science](https://www.webofscience.com/wos/author/record/QAW-2758-2026)** — Researcher ID: QAW-2758-2026
 
 - <img src="https://www.google.com/s2/favicons?domain=researchgate.net&sz=64" width="20" height="20" alt="ResearchGate icon" /> **[ResearchGate](https://www.researchgate.net/profile/Abdullah-Jaber-6)** — Research profile
 
