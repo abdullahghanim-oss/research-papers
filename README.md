@@ -78,9 +78,7 @@
     **Authors:** AG Jaber\
     **Venue:** *International Journal of Latest Technology in
     Engineering, Management ...*\
-    **Bibliographic note:** Full venue details were truncated in the
-    supplied record; verify the exact journal title, volume, issue,
-    pages, and DOI.
+    **DOI / publication link:** [https://dx.doi.org/10.51583/IJLTEMAS.2026.15020000074] .
 
 9.  **Adaptive Multi-Layer Security for UAV Video Streaming: A Chaotic
     Blockchain Key Scheduler with MDP-Driven Reinforcement Learning**\
