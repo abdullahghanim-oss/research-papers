@@ -12,9 +12,9 @@
 
 - <img src="https://www.google.com/s2/favicons?domain=orcid.org&sz=64" width="20" height="20" alt="ORCID icon" /> **[ORCID](https://orcid.org/0000-0002-2901-4161)** — 0000-0002-2901-4161
 
-- <img src="https://www.google.com/s2/favicons?domain=scopus.com&sz=64" width="20" height="20" alt="Scopus icon" /> **[Scopus](https://www.scopus.com/authid/detail.uri?authorId=60431094700)** — Author ID: 60431094700
+**[Scopus](https://www.scopus.com/authid/detail.uri?authorId=60431094700)** — Author ID: 60431094700
 
-- <img src="https://www.google.com/s2/favicons?domain=webofscience.com&sz=64" width="20" height="20" alt="Web of Science icon" /> - **[Web of Science](https://www.webofscience.com/wos/author/record/QAW-2758-2026)** — Researcher ID: QAW-2758-2026
+**[Web of Science](https://www.webofscience.com/wos/author/record/QAW-2758-2026)** — Researcher ID: QAW-2758-2026
 
 - <img src="https://www.google.com/s2/favicons?domain=researchgate.net&sz=64" width="20" height="20" alt="ResearchGate icon" /> **[ResearchGate](https://www.researchgate.net/profile/Abdullah-Jaber-6)** — Research profile
 
@@ -146,10 +146,7 @@
 16. **FACE RECOGNITION USING HYBRID GABOR FILTER AND STACKED SPARSE AUTO
     ENCODERS (SSAE) WITH DEEP NEURAL NETWORK MODEL**\
     **Authors:** AG Jaber, RC Muniyandi\
-    **Venue / publication details:** Not included in supplied record; no DOI verified.\
-    **Related-work note:** This may be an earlier version or related
-    work to the 2022 facial-recognition paper. Verify before counting it
-    as a separate publication.
+    **Venue / publication details:** https://ftsm.ukm.my/v6/public/assets/file/technicalreport/PS-FTSM-2021-012.pdf
 
 ------------------------------------------------------------------------
 
